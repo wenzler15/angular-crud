@@ -14,5 +14,6 @@ import { AppComponent } from './app.component';
   ],
   providers: [],
   bootstrap: [AppComponent]
+  //Component que vai ser rendenizado
 })
 export class AppModule { }
